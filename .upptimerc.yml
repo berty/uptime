@@ -19,6 +19,10 @@ sites:
     url: https://assets.berty.tech/
   - name: shop.berty.tech
     url: https://shop.berty.tech
+  - name: p2p.paris
+    url: https://p2p.paris
+  - name: francep2p.org
+    url: https://francep2p.org
   - name: prom.berty.io
     url: https://prom.berty.io/
     expectedStatusCodes: [401]
