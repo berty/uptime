@@ -22,6 +22,10 @@ sites:
   - name: prom.berty.io
     url: https://prom.berty.io/
     expectedStatusCodes: [401]
+  - name: svc-fr-1
+    url: svc-fr-1.berty.io
+    port: 22
+    check: tcp-ping
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
