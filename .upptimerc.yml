@@ -7,6 +7,15 @@ sites:
     url: https://www.berty.tech
   - name: yolo.berty.io  
     url: https://yolo.berty.io/
+  - name: translate.berty.community
+    url: https://translate.berty.community
+  - name: vote.berty.community
+    url: https://vote.berty.community
+  - name: berty.community
+    url: https://berty.community/
+  - name: services.berty.tech
+    url: https://services.berty.tech/
+    expectedStatusCodes: [404]
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
