@@ -15,6 +15,13 @@ sites:
     url: https://berty.community/
   - name: services.berty.tech
     url: https://services.berty.tech/authorize
+  - name: assets.berty.tech
+    url: https://assets.berty.tech/
+  - name: shop.berty.tech
+    url: https://shop.berty.tech
+  - name: prom.berty.io
+    url: https://prom.berty.io/
+    expectedStatusCodes: [401]
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
