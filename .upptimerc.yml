@@ -26,9 +26,22 @@ sites:
   - name: prom.berty.io
     url: https://prom.berty.io/
     expectedStatusCodes: [401]
-  - name: svc-fr-1
+  - name: ssh@svc-fr-1
     url: svc-fr-1.berty.io
     port: 22
+    check: tcp-ping
+  - name: ssh@svc-ams-1
+    url: svc-ams-1.berty.io
+    port: 22
+    check: tcp-ping
+  # https://github.com/berty/berty/blob/master/config/config.yml
+  - name: rdvp@svc-fr-1
+    url: 51.159.21.214
+    port: 4040
+    check: tcp-ping
+  - name: rdvp@svc-ams-1
+    url: 51.15.25.224
+    port: 4040
     check: tcp-ping
     
 status-website:
