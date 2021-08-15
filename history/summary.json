@@ -46,19 +46,19 @@
     "url": "https://translate.berty.community",
     "icon": "https://favicons.githubusercontent.com/translate.berty.community",
     "slug": "translate-berty-community",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 221,
-    "timeDay": 143,
-    "timeWeek": 248,
-    "timeMonth": 234,
+    "timeDay": 171,
+    "timeWeek": 242,
+    "timeMonth": 233,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 10
     }
   },
   {
