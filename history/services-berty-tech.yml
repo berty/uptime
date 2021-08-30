@@ -1,7 +1,7 @@
 url: https://services.berty.tech/authorize
-status: down
-code: 404
-responseTime: 322
-lastUpdated: 2021-08-30T15:18:17.658Z
+status: up
+code: 200
+responseTime: 319
+lastUpdated: 2021-08-30T15:26:54.548Z
 startTime: Fri Jul 02 2021 10:12:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
