@@ -48,9 +48,9 @@
     "url": "https://translate.berty.community",
     "icon": "https://favicons.githubusercontent.com/translate.berty.community",
     "slug": "translate-berty-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -60,6 +60,7 @@
     "timeMonth": 272,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2021-10-14": 0,
       "2021-09-27": 7,
       "2021-08-15": 10
     }
@@ -118,11 +119,11 @@
     "icon": "https://favicons.githubusercontent.com/services.berty.tech",
     "slug": "services-berty-tech",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 822,
     "timeDay": 523,
     "timeWeek": 439,
