@@ -141,9 +141,9 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://favicons.githubusercontent.com/assets.berty.tech",
     "slug": "assets-berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -153,6 +153,7 @@
     "timeMonth": 223,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-07-15": 12,
       "2021-07-12": 5
     }
@@ -208,9 +209,9 @@
     "slug": "francep2p-org",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 171,
@@ -218,7 +219,7 @@
     "timeMonth": 335,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 7
     }
   },
   {
