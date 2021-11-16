@@ -206,9 +206,9 @@
     "url": "https://francep2p.org",
     "icon": "https://favicons.githubusercontent.com/francep2p.org",
     "slug": "francep2p-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,7 +217,9 @@
     "timeWeek": 363,
     "timeMonth": 335,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "prom.berty.io",
