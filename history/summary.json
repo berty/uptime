@@ -189,9 +189,9 @@
     "url": "https://p2p.paris",
     "icon": "https://favicons.githubusercontent.com/p2p.paris",
     "slug": "p2p-paris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,6 +201,7 @@
     "timeMonth": 498,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2021-12-19": 0,
       "2021-07-29": 10
     }
   },
