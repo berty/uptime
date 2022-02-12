@@ -1,7 +1,7 @@
 url: https://translate.berty.community
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2022-02-11T23:01:50.882Z
+status: down
+code: 502
+responseTime: 140
+lastUpdated: 2022-02-12T11:39:03.363Z
 startTime: Fri Jul 02 2021 10:12:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
