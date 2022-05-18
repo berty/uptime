@@ -309,10 +309,10 @@
     "url": "svc-ams-1.berty.io",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ssh-svc-ams-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
@@ -320,7 +320,9 @@
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 2
+    }
   },
   {
     "name": "rdvp@svc-fr-1",
@@ -345,10 +347,10 @@
     "url": "51.15.25.224",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rdvp-svc-ams-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
@@ -356,6 +358,8 @@
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   }
 ]
