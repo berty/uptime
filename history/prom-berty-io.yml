@@ -1,7 +1,7 @@
 url: https://prom.berty.io/
-status: down
-code: 403
-responseTime: 58
-lastUpdated: 2022-05-28T09:43:39.241Z
+status: up
+code: 401
+responseTime: 576
+lastUpdated: 2022-05-28T09:50:35.662Z
 startTime: Fri Jul 02 2021 10:15:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
