@@ -1,7 +1,7 @@
 url: https://francep2p.org
-status: up
-code: 200
-responseTime: 168
-lastUpdated: 2022-08-19T23:02:00.191Z
+status: down
+code: 500
+responseTime: 3388
+lastUpdated: 2022-08-20T17:39:13.300Z
 startTime: Fri Jul 02 2021 11:53:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
