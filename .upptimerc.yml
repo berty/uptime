@@ -9,10 +9,10 @@ sites:
     url: https://yolo.berty.io/
   - name: translate.berty.community
     url: https://translate.berty.community
-  - name: vote.berty.community
-    url: https://vote.berty.community
-  - name: berty.community
-    url: https://berty.community/
+  #- name: vote.berty.community
+  #  url: https://vote.berty.community
+  #- name: berty.community
+  #  url: https://berty.community/
   - name: services.berty.tech
     url: https://services.berty.tech/authorize
   - name: assets.berty.tech
@@ -23,9 +23,9 @@ sites:
     url: https://p2p.paris
   - name: francep2p.org
     url: https://francep2p.org
-  - name: prom.berty.io
-    url: https://prom.berty.io/
-    expectedStatusCodes: [401]
+  #- name: prom.berty.io
+  #  url: https://prom.berty.io/
+  #  expectedStatusCodes: [401]
   - name: ssh@svc-fr-1
     url: svc-fr-1.berty.io
     port: 22
