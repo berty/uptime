@@ -1,7 +1,7 @@
 url: https://assets.berty.tech/
-status: up
-code: 200
-responseTime: 391
-lastUpdated: 2022-11-18T23:01:59.475Z
+status: down
+code: 500
+responseTime: 3071
+lastUpdated: 2022-11-19T04:56:50.971Z
 startTime: Fri Jul 02 2021 10:15:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
