@@ -1,7 +1,7 @@
 url: https://www.berty.tech
-status: up
-code: 200
-responseTime: 514
-lastUpdated: 2022-12-27T23:01:54.859Z
+status: down
+code: 500
+responseTime: 3169
+lastUpdated: 2022-12-28T07:52:59.474Z
 startTime: Fri Jul 02 2021 09:56:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
