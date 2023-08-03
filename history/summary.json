@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 417,
-    "timeDay": 308,
-    "timeWeek": 301,
-    "timeMonth": 348,
+    "timeDay": 197,
+    "timeWeek": 300,
+    "timeMonth": 346,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2022-08-28": 52
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 302,
-    "timeWeek": 341,
-    "timeMonth": 426,
+    "timeDay": 408,
+    "timeWeek": 357,
+    "timeMonth": 417,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2022-08-23": 111
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 294,
-    "timeWeek": 291,
-    "timeMonth": 352,
-    "timeYear": 399,
+    "timeDay": 273,
+    "timeWeek": 311,
+    "timeMonth": 345,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2022-11-12": 20
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.berty.tech.ico",
     "slug": "services-berty-tech",
     "status": "down",
-    "uptime": "43.75%",
+    "uptime": "43.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 419,
-    "timeDay": 312,
-    "timeWeek": 341,
-    "timeMonth": 397,
-    "timeYear": 416,
+    "timeDay": 292,
+    "timeWeek": 340,
+    "timeMonth": 390,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-08-02": 6,
+      "2023-08-03": 7,
+      "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -439,8 +440,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 315,
-    "timeDay": 76,
-    "timeWeek": 196,
-    "timeMonth": 274,
+    "timeDay": 121,
+    "timeWeek": 199,
+    "timeMonth": 269,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2022-08-28": 52
@@ -475,9 +475,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 190,
-    "timeWeek": 263,
-    "timeMonth": 311,
+    "timeDay": 165,
+    "timeWeek": 252,
+    "timeMonth": 305,
     "timeYear": 264,
     "dailyMinutesDown": {}
   },
@@ -492,11 +492,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 418,
-    "timeDay": 462,
-    "timeWeek": 442,
-    "timeMonth": 383,
-    "timeYear": 422,
+    "time": 419,
+    "timeDay": 442,
+    "timeWeek": 434,
+    "timeMonth": 393,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2022-11-03": 75
     }
@@ -507,15 +507,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
     "status": "up",
-    "uptime": "79.15%",
+    "uptime": "79.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "56.57%",
     "time": 358,
-    "timeDay": 85,
-    "timeWeek": 230,
-    "timeMonth": 231,
+    "timeDay": 191,
+    "timeWeek": 216,
+    "timeMonth": 232,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2023-06-28": 1279,
@@ -692,8 +692,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 121,
-    "timeWeek": 138,
+    "timeDay": 163,
+    "timeWeek": 144,
     "timeMonth": 153,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -710,8 +710,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 134,
-    "timeWeek": 118,
+    "timeDay": 172,
+    "timeWeek": 126,
     "timeMonth": 139,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -730,7 +730,7 @@
     "time": 109,
     "timeDay": 84,
     "timeWeek": 91,
-    "timeMonth": 111,
+    "timeMonth": 109,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -748,7 +748,7 @@
     "time": 106,
     "timeDay": 85,
     "timeWeek": 93,
-    "timeMonth": 111,
+    "timeMonth": 109,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2023-01-25": 18
