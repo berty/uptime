@@ -72,7 +72,7 @@
     "timeMonth": 409,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-09-18": 890,
+      "2023-09-18": 897,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -444,19 +444,19 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 285,
-    "timeWeek": 263,
-    "timeMonth": 270,
+    "time": 325,
+    "timeDay": 203,
+    "timeWeek": 238,
+    "timeMonth": 263,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 7
     }
   },
   {
