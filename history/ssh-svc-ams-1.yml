@@ -1,7 +1,7 @@
 url: svc-ams-1.berty.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-24T23:07:27.761Z
+status: up
+code: 200
+responseTime: 143
+lastUpdated: 2023-09-25T15:11:28.191Z
 startTime: 2021-07-03T08:41:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
