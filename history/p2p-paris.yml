@@ -1,7 +1,7 @@
 url: https://p2p.paris
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-06T20:44:56.987Z
+status: up
+code: 200
+responseTime: 495
+lastUpdated: 2023-11-06T20:51:50.135Z
 startTime: 2021-07-02T11:53:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
