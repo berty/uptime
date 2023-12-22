@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "89.91%",
+    "uptime": "89.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-12-22": 1397,
+      "2023-12-22": 1407,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-12-22": 1397,
+      "2023-12-22": 1407,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -570,19 +570,19 @@
     "url": "https://p2p.paris",
     "icon": "https://icons.duckduckgo.com/ip3/p2p.paris.ico",
     "slug": "p2p-paris",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 13074,
-    "timeWeek": 2269,
-    "timeMonth": 817,
-    "timeYear": 435,
+    "time": 438,
+    "timeDay": 10772,
+    "timeWeek": 3044,
+    "timeMonth": 1064,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-12-22": 12
+      "2023-12-22": 19
     }
   },
   {
@@ -781,7 +781,7 @@
     "timeMonth": 0,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-22": 1397,
+      "2023-12-22": 1407,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -913,7 +913,7 @@
     "timeMonth": 0,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-12-22": 1397,
+      "2023-12-22": 1407,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -1023,7 +1023,7 @@
     "timeMonth": 0,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-12-22": 1397,
+      "2023-12-22": 1407,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
