@@ -4,19 +4,19 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 57,
-    "timeWeek": 221,
+    "timeDay": 134,
+    "timeWeek": 219,
     "timeMonth": 222,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-01-03": 6
+      "2024-01-03": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2024-01-03": 1008,
+      "2024-01-03": 1015,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-01-03": 1008,
+      "2024-01-03": 1015,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -797,7 +797,7 @@
     "timeMonth": 0,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-01-03": 1008,
+      "2024-01-03": 1015,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -934,14 +934,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.95%",
+    "uptimeYear": "71.94%",
     "time": 109,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-01-03": 1008,
+      "2024-01-03": 1015,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1052,7 +1052,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-ams-1",
     "status": "down",
-    "uptime": "92.25%",
+    "uptime": "92.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1063,7 +1063,7 @@
     "timeMonth": 0,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-01-03": 1008,
+      "2024-01-03": 1015,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
