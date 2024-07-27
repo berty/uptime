@@ -34,7 +34,8 @@
     "timeMonth": 274,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2024-07-26": 1432,
+      "2024-07-27": 7,
+      "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -381,7 +382,8 @@
     "timeMonth": 225,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-07-26": 1432,
+      "2024-07-27": 7,
+      "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -736,8 +738,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1440,
-      "2023-07-28": 1440
+      "2023-07-29": 1440
     }
   },
   {
@@ -804,19 +805,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
     "status": "up",
-    "uptime": "85.84%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "85.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
     "timeDay": 228,
     "timeWeek": 278,
     "timeMonth": 238,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2024-07-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ssh@svc-fr-1",
@@ -827,7 +826,7 @@
     "uptime": "74.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.93%",
+    "uptimeMonth": "55.96%",
     "uptimeYear": "20.25%",
     "time": 148,
     "timeDay": 87,
@@ -1170,7 +1169,8 @@
     "timeMonth": 0,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2024-07-26": 1432,
+      "2024-07-27": 8,
+      "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
