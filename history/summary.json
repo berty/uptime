@@ -34,7 +34,7 @@
     "timeMonth": 284,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-08-23": 930,
+      "2024-08-23": 938,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -409,7 +409,7 @@
     "timeMonth": 218,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-08-23": 930,
+      "2024-08-23": 938,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -791,19 +791,19 @@
     "url": "https://shop.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/shop.berty.tech.ico",
     "slug": "shop-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 540,
-    "timeWeek": 378,
-    "timeMonth": 340,
+    "timeDay": 546,
+    "timeWeek": 398,
+    "timeMonth": 346,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 8
     }
   },
   {
@@ -1191,14 +1191,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.13%",
+    "uptimeYear": "8.12%",
     "time": 108,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 151,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-08-23": 930,
+      "2024-08-23": 938,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
