@@ -34,7 +34,7 @@
     "timeMonth": 455,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-10-03": 1172,
+      "2024-10-03": 1179,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 215,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-10-03": 1172,
+      "2024-10-03": 1179,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -820,19 +820,19 @@
     "url": "https://shop.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/shop.berty.tech.ico",
     "slug": "shop-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 301,
-    "timeWeek": 311,
-    "timeMonth": 336,
+    "timeDay": 308,
+    "timeWeek": 312,
+    "timeMonth": 335,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-10-03": 2
+      "2024-10-03": 8
     }
   },
   {
@@ -1212,7 +1212,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-10-03": 1172,
+      "2024-10-03": 1179,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
