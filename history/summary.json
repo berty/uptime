@@ -34,7 +34,7 @@
     "timeMonth": 530,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-10-12": 1239,
+      "2024-10-12": 1246,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 213,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-10-12": 1239,
+      "2024-10-12": 1246,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -820,19 +820,19 @@
     "url": "https://shop.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/shop.berty.tech.ico",
     "slug": "shop-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 262,
-    "timeWeek": 359,
-    "timeMonth": 344,
+    "timeDay": 277,
+    "timeWeek": 354,
+    "timeMonth": 343,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2024-10-12": 2
+      "2024-10-12": 7
     }
   },
   {
@@ -863,7 +863,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
     "status": "up",
-    "uptime": "86.76%",
+    "uptime": "86.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1203,7 +1203,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-10-12": 1239,
+      "2024-10-12": 1246,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
