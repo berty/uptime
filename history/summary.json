@@ -34,7 +34,7 @@
     "timeMonth": 509,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-01-25": 825,
+      "2025-01-25": 832,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 208,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-01-25": 825,
+      "2025-01-25": 832,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -839,19 +839,19 @@
     "url": "https://p2p.paris",
     "icon": "https://icons.duckduckgo.com/ip3/p2p.paris.ico",
     "slug": "p2p-paris",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 711,
-    "timeWeek": 700,
-    "timeMonth": 478,
-    "timeYear": 387,
+    "timeDay": 702,
+    "timeWeek": 699,
+    "timeMonth": 483,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-01-25": 1
+      "2025-01-25": 7
     }
   },
   {
@@ -1092,7 +1092,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-01-25": 825,
+      "2025-01-25": 832,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
