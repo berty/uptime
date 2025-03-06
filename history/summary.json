@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 190,
-    "timeWeek": 247,
-    "timeMonth": 249,
-    "timeYear": 245,
+    "time": 233,
+    "timeDay": 101,
+    "timeWeek": 223,
+    "timeMonth": 246,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "60.55%",
+    "uptime": "60.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 454,
-    "timeDay": 564,
-    "timeWeek": 457,
-    "timeMonth": 505,
+    "timeDay": 383,
+    "timeWeek": 425,
+    "timeMonth": 501,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-03-05": 9,
+      "2025-03-06": 9,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -397,8 +398,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -412,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 415,
-    "timeDay": 606,
-    "timeWeek": 371,
-    "timeMonth": 388,
+    "time": 414,
+    "timeDay": 164,
+    "timeWeek": 376,
+    "timeMonth": 384,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2024-10-19": 140,
@@ -428,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.berty.tech.ico",
     "slug": "services-berty-tech",
     "status": "down",
-    "uptime": "25.50%",
+    "uptime": "25.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 224,
-    "timeDay": 241,
-    "timeWeek": 184,
+    "timeDay": 159,
+    "timeWeek": 180,
     "timeMonth": 218,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-03-05": 9,
+      "2025-03-06": 9,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -802,8 +803,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -818,10 +818,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 149,
-    "timeWeek": 151,
-    "timeMonth": 187,
-    "timeYear": 208,
+    "timeDay": 51,
+    "timeWeek": 125,
+    "timeMonth": 184,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -836,8 +836,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 308,
-    "timeWeek": 327,
+    "timeDay": 292,
+    "timeWeek": 319,
     "timeMonth": 344,
     "timeYear": 329,
     "dailyMinutesDown": {}
@@ -854,9 +854,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 715,
-    "timeWeek": 695,
-    "timeMonth": 803,
+    "timeDay": 587,
+    "timeWeek": 674,
+    "timeMonth": 799,
     "timeYear": 434,
     "dailyMinutesDown": {}
   },
@@ -866,15 +866,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
     "status": "up",
-    "uptime": "88.18%",
+    "uptime": "88.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 260,
-    "timeWeek": 256,
-    "timeMonth": 321,
+    "timeDay": 255,
+    "timeWeek": 253,
+    "timeMonth": 318,
     "timeYear": 269,
     "dailyMinutesDown": {}
   },
@@ -884,14 +884,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ssh-svc-fr-1",
     "status": "up",
-    "uptime": "78.29%",
+    "uptime": "78.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.10%",
+    "uptimeYear": "65.37%",
     "time": 110,
-    "timeDay": 82,
-    "timeWeek": 93,
+    "timeDay": 87,
+    "timeWeek": 91,
     "timeMonth": 106,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -1020,8 +1020,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -1036,8 +1035,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 89,
-    "timeWeek": 92,
+    "timeDay": 82,
+    "timeWeek": 89,
     "timeMonth": 103,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -1048,7 +1047,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-fr-1",
     "status": "down",
-    "uptime": "60.56%",
+    "uptime": "60.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1059,7 +1058,8 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-03-05": 10,
+      "2025-03-06": 10,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1422,8 +1422,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -1432,14 +1431,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-ams-1",
     "status": "up",
-    "uptime": "85.70%",
+    "uptime": "85.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.69%",
+    "uptimeYear": "83.96%",
     "time": 107,
-    "timeDay": 89,
-    "timeWeek": 92,
+    "timeDay": 82,
+    "timeWeek": 89,
     "timeMonth": 103,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -1500,8 +1499,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   }
 ]
