@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "57.83%",
+    "uptime": "57.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 1877,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-05-07": 10,
+      "2025-05-07": 690,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -428,7 +428,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.berty.tech.ico",
     "slug": "services-berty-tech",
     "status": "down",
-    "uptime": "24.35%",
+    "uptime": "24.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -439,7 +439,7 @@
     "timeMonth": 228,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-05-07": 10,
+      "2025-05-07": 690,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -811,10 +811,10 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -822,7 +822,9 @@
     "timeWeek": 507,
     "timeMonth": 251,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 2
+    }
   },
   {
     "name": "shop.berty.tech",
@@ -865,10 +867,10 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "up",
+    "status": "down",
     "uptime": "88.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
@@ -876,7 +878,9 @@
     "timeWeek": 244,
     "timeMonth": 285,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 2
+    }
   },
   {
     "name": "ssh@svc-fr-1",
@@ -884,11 +888,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ssh-svc-fr-1",
     "status": "up",
-    "uptime": "79.04%",
+    "uptime": "79.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.01%",
-    "uptimeYear": "81.52%",
+    "uptimeYear": "81.65%",
     "time": 111,
     "timeDay": 134,
     "timeWeek": 108,
@@ -994,7 +998,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-fr-1",
     "status": "down",
-    "uptime": "57.85%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1005,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-05-07": 10,
+      "2025-05-07": 691,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -1378,7 +1382,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-ams-1",
     "status": "up",
-    "uptime": "86.12%",
+    "uptime": "86.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.01%",
