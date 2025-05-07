@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "57.82%",
+    "uptime": "57.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 1877,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-05-07": 698,
+      "2025-05-07": 704,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 228,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-05-07": 698,
+      "2025-05-07": 704,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -813,18 +813,16 @@
     "slug": "assets-berty-tech",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 418,
     "timeWeek": 453,
     "timeMonth": 246,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2025-05-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "shop.berty.tech",
@@ -867,19 +865,19 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "down",
+    "status": "up",
     "uptime": "88.71%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 287,
-    "timeWeek": 244,
-    "timeMonth": 285,
-    "timeYear": 271,
+    "time": 264,
+    "timeDay": 816,
+    "timeWeek": 382,
+    "timeMonth": 320,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-05-07": 9
+      "2025-05-07": 14
     }
   },
   {
@@ -1009,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-05-07": 698,
+      "2025-05-07": 705,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
