@@ -34,7 +34,7 @@
     "timeMonth": 1877,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-05-07": 690,
+      "2025-05-07": 698,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 228,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-05-07": 690,
+      "2025-05-07": 698,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -811,19 +811,19 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 764,
-    "timeWeek": 507,
-    "timeMonth": 251,
-    "timeYear": 219,
+    "timeDay": 418,
+    "timeWeek": 453,
+    "timeMonth": 246,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-05-07": 2
+      "2025-05-07": 7
     }
   },
   {
@@ -869,9 +869,9 @@
     "slug": "francep2p-org",
     "status": "down",
     "uptime": "88.71%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 287,
@@ -879,7 +879,7 @@
     "timeMonth": 285,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-05-07": 2
+      "2025-05-07": 9
     }
   },
   {
@@ -892,7 +892,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.01%",
-    "uptimeYear": "81.65%",
+    "uptimeYear": "81.66%",
     "time": 111,
     "timeDay": 134,
     "timeWeek": 108,
@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-05-07": 691,
+      "2025-05-07": 698,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
