@@ -4,19 +4,19 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 0,
-    "timeWeek": 296,
-    "timeMonth": 312,
+    "timeDay": 149,
+    "timeWeek": 275,
+    "timeMonth": 307,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-06-02": 2
+      "2025-06-02": 11
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 522,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-06-02": 1385,
+      "2025-06-02": 1396,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 234,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-06-02": 1385,
+      "2025-06-02": 1396,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -981,7 +981,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-06-02": 1385,
+      "2025-06-02": 1396,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
