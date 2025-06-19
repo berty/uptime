@@ -34,7 +34,7 @@
     "timeMonth": 494,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-06-19": 1416,
+      "2025-06-19": 1424,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 244,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-06-19": 1416,
+      "2025-06-19": 1424,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -811,19 +811,19 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 1190,
-    "timeWeek": 519,
-    "timeMonth": 278,
+    "timeDay": 864,
+    "timeWeek": 485,
+    "timeMonth": 276,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-06-19": 2
+      "2025-06-19": 8
     }
   },
   {
@@ -867,19 +867,19 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "down",
+    "status": "up",
     "uptime": "89.05%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 1969,
-    "timeWeek": 682,
-    "timeMonth": 359,
+    "timeDay": 1393,
+    "timeWeek": 633,
+    "timeMonth": 356,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-06-19": 2
+      "2025-06-19": 8
     }
   },
   {
@@ -966,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-06-19": 1416,
+      "2025-06-19": 1424,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
