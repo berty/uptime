@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "55.28%",
+    "uptime": "55.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 524,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-07-11": 11,
+      "2025-07-11": 334,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 243,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-07-11": 11,
+      "2025-07-11": 334,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -847,10 +847,10 @@
     "url": "https://p2p.paris",
     "icon": "https://icons.duckduckgo.com/ip3/p2p.paris.ico",
     "slug": "p2p-paris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
@@ -858,7 +858,9 @@
     "timeWeek": 885,
     "timeMonth": 876,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 2
+    }
   },
   {
     "name": "francep2p.org",
@@ -930,7 +932,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-fr-1",
     "status": "down",
-    "uptime": "55.29%",
+    "uptime": "55.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -941,7 +943,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-07-11": 11,
+      "2025-07-11": 334,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
