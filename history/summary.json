@@ -4,19 +4,19 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 97,
-    "timeWeek": 474,
-    "timeMonth": 362,
+    "timeDay": 133,
+    "timeWeek": 436,
+    "timeMonth": 356,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-07-16": 1
+      "2025-07-16": 16
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 525,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-07-16": 1104,
+      "2025-07-16": 1120,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 233,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-07-16": 1104,
+      "2025-07-16": 1120,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -852,8 +852,8 @@
     "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.91%",
-    "uptimeMonth": "81.80%",
+    "uptimeWeek": "20.76%",
+    "uptimeMonth": "81.77%",
     "uptimeYear": "98.48%",
     "time": 547,
     "timeDay": 0,
@@ -861,7 +861,7 @@
     "timeMonth": 882,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-07-16": 1104,
+      "2025-07-16": 1120,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -950,7 +950,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-07-16": 1105,
+      "2025-07-16": 1120,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
