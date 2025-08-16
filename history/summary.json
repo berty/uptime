@@ -4,10 +4,10 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 266,
@@ -16,6 +16,7 @@
     "timeMonth": 304,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-07-16": 16
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 503,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-08-16": 584,
+      "2025-08-16": 608,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -410,9 +411,9 @@
     "slug": "translate-berty-community",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 443,
     "timeDay": 391,
@@ -420,7 +421,6 @@
     "timeMonth": 463,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-08-16": 8,
       "2024-10-19": 140
     }
   },
@@ -441,7 +441,7 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-08-16": 584,
+      "2025-08-16": 609,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -854,14 +854,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.09%",
+    "uptimeYear": "90.08%",
     "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-08-16": 584,
+      "2025-08-16": 609,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -981,7 +981,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 584,
+      "2025-08-16": 609,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
