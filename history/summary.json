@@ -36,7 +36,7 @@
     "timeMonth": 503,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-08-16": 576,
+      "2025-08-16": 584,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -408,19 +408,19 @@
     "url": "https://translate.berty.community",
     "icon": "https://icons.duckduckgo.com/ip3/translate.berty.community.ico",
     "slug": "translate-berty-community",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 442,
-    "timeDay": 359,
+    "time": 443,
+    "timeDay": 391,
     "timeWeek": 418,
-    "timeMonth": 464,
+    "timeMonth": 463,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
+      "2025-08-16": 8,
       "2024-10-19": 140
     }
   },
@@ -441,7 +441,7 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-08-16": 576,
+      "2025-08-16": 584,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -861,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-08-16": 577,
+      "2025-08-16": 584,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -981,7 +981,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 577,
+      "2025-08-16": 584,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
