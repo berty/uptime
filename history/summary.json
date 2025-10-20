@@ -4,11 +4,11 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 292,
     "timeDay": 772,
@@ -16,7 +16,7 @@
     "timeMonth": 433,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-10-20": 50,
+      "2025-10-20": 41,
       "2025-07-16": 16
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 531,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-10-20": 984,
+      "2025-10-20": 998,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 230,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-10-20": 984,
+      "2025-10-20": 998,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -811,10 +811,10 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
@@ -822,7 +822,9 @@
     "timeWeek": 171,
     "timeMonth": 269,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "shop.berty.tech",
@@ -859,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-10-20": 984,
+      "2025-10-20": 998,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -968,10 +970,10 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "up",
+    "status": "down",
     "uptime": "89.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
@@ -979,7 +981,9 @@
     "timeWeek": 244,
     "timeMonth": 269,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "ssh@svc-fr-1",
@@ -1044,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 984,
+      "2025-10-20": 998,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
