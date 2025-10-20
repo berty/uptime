@@ -37,7 +37,7 @@
     "timeMonth": 531,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-10-20": 921,
+      "2025-10-20": 931,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 230,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-10-20": 921,
+      "2025-10-20": 931,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -852,14 +852,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.22%",
+    "uptimeYear": "72.21%",
     "time": 588,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-10-20": 921,
+      "2025-10-20": 931,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -968,19 +968,19 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "down",
-    "uptime": "89.91%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "89.90%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 266,
+    "timeDay": 270,
+    "timeWeek": 244,
+    "timeMonth": 269,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-10-20": 2
+      "2025-10-20": 10
     }
   },
   {
@@ -1046,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 921,
+      "2025-10-20": 931,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
