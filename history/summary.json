@@ -6,9 +6,9 @@
     "slug": "berty-tech",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 284,
     "timeDay": 275,
@@ -16,7 +16,7 @@
     "timeMonth": 366,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-10-20": 45,
+      "2025-10-20": 39,
       "2025-07-16": 16
     }
   },
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "51.71%",
+    "uptime": "51.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,7 @@
     "timeMonth": 531,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-10-20": 700,
+      "2025-10-20": 899,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 230,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-10-20": 700,
+      "2025-10-20": 899,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -852,14 +852,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.26%",
+    "uptimeYear": "72.22%",
     "time": 588,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-10-20": 700,
+      "2025-10-20": 899,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -968,10 +968,10 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "up",
-    "uptime": "89.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "89.91%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
@@ -979,7 +979,9 @@
     "timeWeek": 215,
     "timeMonth": 264,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "ssh@svc-fr-1",
@@ -1044,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 701,
+      "2025-10-20": 899,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -1417,7 +1419,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-ams-1",
     "status": "up",
-    "uptime": "87.59%",
+    "uptime": "87.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
