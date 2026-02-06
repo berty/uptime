@@ -4,19 +4,19 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.57%",
     "time": 345,
-    "timeDay": 350,
-    "timeWeek": 340,
+    "timeDay": 356,
+    "timeWeek": 343,
     "timeMonth": 394,
-    "timeYear": 361,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2026-02-06": 50,
+      "2026-02-06": 56,
       "2026-02-03": 35,
       "2026-01-28": 19,
       "2026-01-27": 25,
@@ -73,10 +73,10 @@
     "time": 599,
     "timeDay": 543,
     "timeWeek": 406,
-    "timeMonth": 514,
-    "timeYear": 628,
+    "timeMonth": 518,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2026-02-06": 1377,
+      "2026-02-06": 1383,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -457,8 +457,8 @@
     "time": 474,
     "timeDay": 751,
     "timeWeek": 496,
-    "timeMonth": 492,
-    "timeYear": 477,
+    "timeMonth": 494,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -475,10 +475,10 @@
     "time": 236,
     "timeDay": 266,
     "timeWeek": 232,
-    "timeMonth": 226,
+    "timeMonth": 227,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-02-06": 1377,
+      "2026-02-06": 1384,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -859,7 +859,7 @@
     "time": 251,
     "timeDay": 356,
     "timeWeek": 298,
-    "timeMonth": 366,
+    "timeMonth": 369,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2025-10-20": 21
@@ -879,8 +879,8 @@
     "time": 288,
     "timeDay": 258,
     "timeWeek": 313,
-    "timeMonth": 320,
-    "timeYear": 265,
+    "timeMonth": 316,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2025-12-05": 32
     }
@@ -900,9 +900,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 857,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2026-02-06": 1377,
+      "2026-02-06": 1384,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -1129,8 +1129,8 @@
     "time": 316,
     "timeDay": 330,
     "timeWeek": 216,
-    "timeMonth": 396,
-    "timeYear": 325,
+    "timeMonth": 397,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-10-20": 38
     }
@@ -1198,7 +1198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-06": 1377,
+      "2026-02-06": 1384,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
