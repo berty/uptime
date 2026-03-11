@@ -6,17 +6,17 @@
     "slug": "berty-tech",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "99.42%",
     "time": 351,
     "timeDay": 388,
     "timeWeek": 444,
-    "timeMonth": 407,
+    "timeMonth": 402,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2026-03-10": 49,
+      "2026-03-10": 43,
       "2026-03-09": 56,
       "2026-03-06": 18,
       "2026-03-05": 30,
@@ -91,10 +91,11 @@
     "time": 600,
     "timeDay": 597,
     "timeWeek": 491,
-    "timeMonth": 544,
+    "timeMonth": 545,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2026-03-10": 1386,
+      "2026-03-11": 12,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -457,8 +458,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -475,7 +475,7 @@
     "time": 468,
     "timeDay": 439,
     "timeWeek": 469,
-    "timeMonth": 577,
+    "timeMonth": 581,
     "timeYear": 493,
     "dailyMinutesDown": {}
   },
@@ -493,10 +493,11 @@
     "time": 236,
     "timeDay": 226,
     "timeWeek": 236,
-    "timeMonth": 227,
+    "timeMonth": 226,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2026-03-10": 1387,
+      "2026-03-11": 12,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -859,8 +860,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -877,7 +877,7 @@
     "time": 254,
     "timeDay": 546,
     "timeWeek": 311,
-    "timeMonth": 281,
+    "timeMonth": 271,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-10-20": 21
@@ -897,7 +897,7 @@
     "time": 285,
     "timeDay": 268,
     "timeWeek": 348,
-    "timeMonth": 320,
+    "timeMonth": 314,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2025-12-05": 32
@@ -913,14 +913,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "33.50%",
+    "uptimeYear": "33.49%",
     "time": 702,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2026-03-10": 1387,
+      "2026-03-11": 12,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -1179,7 +1180,7 @@
     "time": 318,
     "timeDay": 140,
     "timeWeek": 263,
-    "timeMonth": 288,
+    "timeMonth": 285,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2026-02-17": 17,
@@ -1192,7 +1193,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ssh-svc-fr-1",
     "status": "up",
-    "uptime": "82.81%",
+    "uptime": "82.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1223,7 +1224,7 @@
     "time": 112,
     "timeDay": 150,
     "timeWeek": 123,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-04-15": 491,
@@ -1249,7 +1250,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 1387,
+      "2026-03-11": 12,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -1612,8 +1614,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -1630,7 +1631,7 @@
     "time": 112,
     "timeDay": 148,
     "timeWeek": 122,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-04-15": 493,
