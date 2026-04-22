@@ -4,18 +4,19 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "98.17%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.50%",
     "time": 362,
     "timeDay": 462,
     "timeWeek": 493,
     "timeMonth": 423,
     "timeYear": 384,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-04-21": 26,
       "2026-04-16": 41,
       "2026-04-15": 42,
@@ -83,9 +84,7 @@
       "2025-11-25": 35,
       "2025-11-24": 40,
       "2025-11-22": 23,
-      "2025-11-21": 16,
-      "2025-11-10": 963,
-      "2025-11-09": 55
+      "2025-11-21": 16
     }
   },
   {
@@ -105,7 +104,7 @@
     "timeMonth": 3407,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2026-04-22": 20,
+      "2026-04-22": 106,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
@@ -507,7 +506,7 @@
     "timeMonth": 227,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2026-04-22": 20,
+      "2026-04-22": 106,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
@@ -929,14 +928,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.98%",
+    "uptimeYear": "21.96%",
     "time": 768,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2026-04-22": 20,
+      "2026-04-22": 106,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
@@ -1301,7 +1300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 20,
+      "2026-04-22": 106,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
