@@ -4,11 +4,11 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "96.31%",
+    "uptimeDay": "96.29%",
     "uptimeWeek": "95.92%",
-    "uptimeMonth": "97.64%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "99.47%",
     "time": 372,
     "timeDay": 291,
@@ -16,6 +16,7 @@
     "timeMonth": 440,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2026-05-04": 0,
       "2026-05-03": 53,
       "2026-05-02": 60,
       "2026-05-01": 48,
@@ -78,8 +79,7 @@
       "2026-01-07": 28,
       "2026-01-06": 38,
       "2026-01-04": 22,
-      "2026-01-03": 20,
-      "2026-01-01": 17
+      "2026-01-03": 20
     }
   },
   {
@@ -99,7 +99,7 @@
     "timeMonth": 2160,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2026-05-04": 27,
+      "2026-05-04": 175,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -501,7 +501,7 @@
     "timeMonth": 237,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-05-04": 27,
+      "2026-05-04": 175,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -923,14 +923,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.69%",
+    "uptimeYear": "18.66%",
     "time": 791,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2026-05-04": 27,
+      "2026-05-04": 176,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -1296,7 +1296,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-fr-1",
     "status": "down",
-    "uptime": "45.99%",
+    "uptime": "45.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 27,
+      "2026-05-04": 176,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
