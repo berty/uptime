@@ -87,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "44.02%",
+    "uptime": "44.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -98,7 +98,7 @@
     "timeMonth": 156,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2026-07-22": 24,
+      "2026-07-22": 135,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 179,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-07-22": 24,
+      "2026-07-22": 136,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -897,17 +897,17 @@
     "url": "https://shop.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/shop.berty.tech.ico",
     "slug": "shop-berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.13%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.87%",
     "time": 304,
-    "timeDay": 296,
-    "timeWeek": 249,
-    "timeMonth": 311,
-    "timeYear": 324,
+    "timeDay": 181,
+    "timeWeek": 241,
+    "timeMonth": 306,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2025-12-05": 32,
       "2026-03-24": 44,
@@ -919,7 +919,8 @@
       "2026-07-14": 43,
       "2026-07-18": 137,
       "2026-07-19": 84,
-      "2026-07-20": 68
+      "2026-07-20": 68,
+      "2026-07-22": 1
     }
   },
   {
@@ -939,7 +940,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 24,
+      "2026-07-22": 136,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -1373,7 +1374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-fr-1",
     "status": "down",
-    "uptime": "44.02%",
+    "uptime": "44.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1384,7 +1385,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 24,
+      "2026-07-22": 136,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
