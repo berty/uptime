@@ -4,16 +4,16 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.44%",
     "time": 393,
-    "timeDay": 383,
-    "timeWeek": 428,
-    "timeMonth": 399,
+    "timeDay": 315,
+    "timeWeek": 405,
+    "timeMonth": 394,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2026-01-14": 25,
@@ -78,7 +78,7 @@
       "2026-05-05": 28,
       "2026-05-19": 28,
       "2026-06-14": 24,
-      "2026-07-25": 16
+      "2026-07-25": 62
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 154,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2026-07-25": 243,
+      "2026-07-25": 290,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -470,20 +470,20 @@
     "url": "https://translate.berty.community",
     "icon": "https://icons.duckduckgo.com/ip3/translate.berty.community.ico",
     "slug": "translate-berty-community",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 469,
-    "timeDay": 351,
+    "time": 470,
+    "timeDay": 404,
     "timeWeek": 458,
-    "timeMonth": 392,
+    "timeMonth": 394,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2026-06-14": 19,
-      "2026-07-25": 11
+      "2026-07-25": 57
     }
   },
   {
@@ -503,7 +503,7 @@
     "timeMonth": 178,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-07-25": 243,
+      "2026-07-25": 290,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -875,14 +875,14 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.97%",
     "time": 295,
-    "timeDay": 480,
+    "timeDay": 419,
     "timeWeek": 357,
     "timeMonth": 335,
     "timeYear": 305,
@@ -891,7 +891,7 @@
       "2026-03-11": 20,
       "2026-04-10": 16,
       "2026-05-19": 38,
-      "2026-07-25": 6
+      "2026-07-25": 52
     }
   },
   {
@@ -943,7 +943,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 243,
+      "2026-07-25": 290,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1315,23 +1315,23 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "down",
-    "uptime": "91.42%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 337,
-    "timeDay": 235,
-    "timeWeek": 332,
-    "timeMonth": 369,
-    "timeYear": 337,
+    "status": "up",
+    "uptime": "91.41%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
+    "time": 339,
+    "timeDay": 502,
+    "timeWeek": 387,
+    "timeMonth": 382,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-10-20": 38,
       "2026-02-17": 17,
       "2026-03-11": 20,
       "2026-05-19": 65,
-      "2026-07-25": 1
+      "2026-07-25": 47
     }
   },
   {
@@ -1389,7 +1389,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 243,
+      "2026-07-25": 290,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
