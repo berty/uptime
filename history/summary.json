@@ -4,16 +4,16 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.45%",
     "time": 393,
-    "timeDay": 315,
-    "timeWeek": 405,
-    "timeMonth": 394,
+    "timeDay": 350,
+    "timeWeek": 407,
+    "timeMonth": 395,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2026-01-20": 18,
@@ -77,7 +77,7 @@
       "2026-05-05": 28,
       "2026-05-19": 28,
       "2026-06-14": 24,
-      "2026-07-25": 78
+      "2026-07-25": 79
     }
   },
   {
@@ -97,7 +97,7 @@
     "timeMonth": 154,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2026-07-25": 1373,
+      "2026-07-25": 1375,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -469,20 +469,20 @@
     "url": "https://translate.berty.community",
     "icon": "https://icons.duckduckgo.com/ip3/translate.berty.community.ico",
     "slug": "translate-berty-community",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 470,
-    "timeDay": 404,
-    "timeWeek": 458,
-    "timeMonth": 394,
-    "timeYear": 472,
+    "timeDay": 506,
+    "timeWeek": 486,
+    "timeMonth": 405,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2026-06-14": 19,
-      "2026-07-25": 68
+      "2026-07-25": 69
     }
   },
   {
@@ -502,7 +502,7 @@
     "timeMonth": 178,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-07-25": 1373,
+      "2026-07-25": 1375,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -874,23 +874,23 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 296,
-    "timeDay": 419,
-    "timeWeek": 357,
-    "timeMonth": 335,
-    "timeYear": 305,
+    "timeDay": 460,
+    "timeWeek": 377,
+    "timeMonth": 342,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-10-20": 21,
       "2026-03-11": 20,
       "2026-04-10": 16,
       "2026-05-19": 38,
-      "2026-07-25": 58
+      "2026-07-25": 59
     }
   },
   {
@@ -942,7 +942,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 1373,
+      "2026-07-25": 1375,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1314,15 +1314,15 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "down",
+    "status": "up",
     "uptime": "91.42%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 339,
-    "timeDay": 502,
-    "timeWeek": 387,
+    "timeDay": 458,
+    "timeWeek": 385,
     "timeMonth": 382,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -1330,7 +1330,7 @@
       "2026-02-17": 17,
       "2026-03-11": 20,
       "2026-05-19": 65,
-      "2026-07-25": 48
+      "2026-07-25": 49
     }
   },
   {
@@ -1388,7 +1388,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 1373,
+      "2026-07-25": 1375,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
