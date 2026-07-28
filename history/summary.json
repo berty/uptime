@@ -97,7 +97,7 @@
     "timeMonth": 152,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2026-07-28": 1351,
+      "2026-07-28": 1374,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 175,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-07-28": 1351,
+      "2026-07-28": 1374,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -899,17 +899,17 @@
     "url": "https://shop.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/shop.berty.tech.ico",
     "slug": "shop-berty-tech",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.79%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.84%",
-    "time": 307,
-    "timeDay": 178,
-    "timeWeek": 289,
-    "timeMonth": 301,
-    "timeYear": 323,
+    "time": 304,
+    "timeDay": 285,
+    "timeWeek": 303,
+    "timeMonth": 304,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-12-05": 32,
       "2026-03-24": 44,
@@ -924,7 +924,7 @@
       "2026-07-20": 68,
       "2026-07-22": 73,
       "2026-07-24": 75,
-      "2026-07-28": 1
+      "2026-07-28": 23
     }
   },
   {
@@ -933,7 +933,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/p2p.paris.ico",
     "slug": "p2p-paris",
     "status": "down",
-    "uptime": "79.26%",
+    "uptime": "79.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1351,
+      "2026-07-28": 1374,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -1390,7 +1390,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1351,
+      "2026-07-28": 1374,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
