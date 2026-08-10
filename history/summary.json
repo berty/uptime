@@ -4,19 +4,18 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.44%",
-    "time": 394,
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.45%",
+    "time": 395,
     "timeDay": 224,
     "timeWeek": 354,
     "timeMonth": 394,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2026-01-23": 40,
       "2026-01-27": 25,
       "2026-01-28": 19,
       "2026-02-03": 35,
@@ -77,7 +76,8 @@
       "2026-05-19": 28,
       "2026-06-14": 24,
       "2026-07-25": 93,
-      "2026-07-26": 7
+      "2026-07-26": 7,
+      "2026-08-10": 16
     }
   },
   {
@@ -86,7 +86,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yolo.berty.io.ico",
     "slug": "yolo-berty-io",
     "status": "down",
-    "uptime": "43.57%",
+    "uptime": "43.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -97,7 +97,7 @@
     "timeMonth": 180,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2026-08-10": 13,
+      "2026-08-10": 1242,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
@@ -469,11 +469,11 @@
     "url": "https://translate.berty.community",
     "icon": "https://icons.duckduckgo.com/ip3/translate.berty.community.ico",
     "slug": "translate-berty-community",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 469,
     "timeDay": 375,
@@ -483,7 +483,8 @@
     "dailyMinutesDown": {
       "2026-06-14": 19,
       "2026-07-25": 66,
-      "2026-07-26": 7
+      "2026-07-26": 7,
+      "2026-08-10": 11
     }
   },
   {
@@ -503,7 +504,7 @@
     "timeMonth": 183,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-08-10": 13,
+      "2026-08-10": 1242,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
@@ -875,11 +876,11 @@
     "url": "https://assets.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.berty.tech.ico",
     "slug": "assets-berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 303,
     "timeDay": 327,
@@ -891,7 +892,8 @@
       "2026-03-11": 20,
       "2026-04-10": 16,
       "2026-05-19": 38,
-      "2026-07-25": 52
+      "2026-07-25": 52,
+      "2026-08-10": 6
     }
   },
   {
@@ -933,7 +935,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/p2p.paris.ico",
     "slug": "p2p-paris",
     "status": "down",
-    "uptime": "78.74%",
+    "uptime": "78.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -944,7 +946,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-10": 13,
+      "2026-08-10": 1242,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
@@ -1316,13 +1318,13 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "up",
+    "status": "down",
     "uptime": "91.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 343,
+    "time": 344,
     "timeDay": 445,
     "timeWeek": 429,
     "timeMonth": 421,
@@ -1332,7 +1334,8 @@
       "2026-02-17": 17,
       "2026-03-11": 20,
       "2026-05-19": 65,
-      "2026-07-25": 47
+      "2026-07-25": 47,
+      "2026-08-10": 1
     }
   },
   {
@@ -1379,7 +1382,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdvp-svc-fr-1",
     "status": "down",
-    "uptime": "43.57%",
+    "uptime": "43.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1390,7 +1393,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-10": 13,
+      "2026-08-10": 1242,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
