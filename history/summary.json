@@ -4,17 +4,17 @@
     "url": "https://www.berty.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.45%",
-    "time": 403,
-    "timeDay": 330,
-    "timeWeek": 461,
-    "timeMonth": 483,
-    "timeYear": 409,
+    "time": 408,
+    "timeDay": 2724,
+    "timeWeek": 1043,
+    "timeMonth": 627,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2026-01-28": 19,
       "2026-02-03": 35,
@@ -77,7 +77,7 @@
       "2026-07-25": 93,
       "2026-07-26": 7,
       "2026-08-10": 17,
-      "2026-09-24": 3
+      "2026-09-24": 6
     }
   },
   {
@@ -97,7 +97,7 @@
     "timeMonth": 8440,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2026-09-24": 1133,
+      "2026-09-24": 1140,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 193,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-09-24": 1133,
+      "2026-09-24": 1140,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-24": 1134,
+      "2026-09-24": 1140,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -1316,10 +1316,10 @@
     "url": "https://francep2p.org",
     "icon": "https://icons.duckduckgo.com/ip3/francep2p.org.ico",
     "slug": "francep2p-org",
-    "status": "up",
+    "status": "down",
     "uptime": "91.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 350,
@@ -1332,7 +1332,8 @@
       "2026-02-17": 17,
       "2026-03-11": 20,
       "2026-05-19": 65,
-      "2026-07-25": 47
+      "2026-07-25": 47,
+      "2026-09-24": 1
     }
   },
   {
@@ -1390,7 +1391,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-24": 1134,
+      "2026-09-24": 1140,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
